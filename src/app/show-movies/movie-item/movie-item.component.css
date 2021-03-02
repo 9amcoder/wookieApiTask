@@ -1,0 +1,9 @@
+.card {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.container .card:hover {
+    background: #4e84b8;
+    transform: translateY(0px);
+}
